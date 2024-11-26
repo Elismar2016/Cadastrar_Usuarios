@@ -17,18 +17,6 @@ no terminal avance para a pasta do projeto digitando cd e tecle TAB
 na pasta do projeto no terminal digite python manage.py starapp minhaAplicacao 
 aqui voce usou o python para abrir um arquivo python magage.py para executar uma função startapp que cria uma aplicação com o nome minha aplicação.
 estao seu projeto ficou assim:
-meuDiretorio>
-            MeuProjeto>
-                      MeuProjeto>
-                                >__pycache__
-                                *__init__.py
-                                *asgi.py
-                                *settings.py
-                                *urls.py
-                                *wsgi.py
-                       *manage.py
-                       minhaAplicacao>
-                                     >migrations
-                                     *__init__.py
-                                     
+![image](https://github.com/user-attachments/assets/fa8e3da0-3739-471b-b743-aac80b7f182f)
+                       
                                 
