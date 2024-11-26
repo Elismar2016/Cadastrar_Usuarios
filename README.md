@@ -22,3 +22,4 @@ estao seu projeto ficou assim:
 ----------------------------------------------------------------------------------------------------------------------------------
 Até aqui nenhuma novidade, todo projeto python com framework Django resulta nesse status.
                                 
+![django_work](https://github.com/user-attachments/assets/9daac24b-92a3-481d-9122-794814c360a2)
