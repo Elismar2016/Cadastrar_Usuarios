@@ -15,9 +15,9 @@ no menu FILE / escolha new folder  e escolha um diretorio/pasta para seu projeto
 digite django-admin startproject MeuProjeto
 observe que no folder escolhido ira aparecer uma pasta nova com o nome do seu projeto   "MeuProjeto"
 no terminal avance para a pasta do projeto digitando cd e tecle TAB
-na pasta do projeto no terminal digite python manage.py starapp minhaAplicacao 
+na pasta do projeto no terminal digite python manage.py startapp minhaAplicacao 
 aqui voce usou o python para abrir um arquivo python magage.py para executar uma função startapp que cria uma aplicação com o nome minha aplicação.
-estao seu projeto ficou assim:
+então,seu projeto ficou assim:
 ![image](https://github.com/user-attachments/assets/fa8e3da0-3739-471b-b743-aac80b7f182f)
 ----------------------------------------------------------------------------------------------------------------------------------
 Até aqui nenhuma novidade, todo projeto python com framework Django resulta nesse status.
