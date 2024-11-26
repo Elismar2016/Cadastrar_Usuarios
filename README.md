@@ -17,5 +17,6 @@ na pasta do projeto no terminal digite python manage.py starapp minhaAplicacao
 aqui voce usou o python para abrir um arquivo python magage.py para executar uma função startapp que cria uma aplicação com o nome minha aplicação.
 estao seu projeto ficou assim:
 ![image](https://github.com/user-attachments/assets/fa8e3da0-3739-471b-b743-aac80b7f182f)
-                       
+----------------------------------------------------------------------------------------------------------------------------------
+Até aqui nenhuma novidade, todo projeto python com framework Django resusta nesse status.
                                 
