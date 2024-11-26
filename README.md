@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/b2cf2637-dd4d-4de8-be8d-3580153e7374)
+
 Bem vindos a esse novo repositorio
 Vamos codar com Python, usando o frameWork django.
 Essa aplicação tem por objetivo contribuir com seu entendimento sobre o uso da ferramenta.
